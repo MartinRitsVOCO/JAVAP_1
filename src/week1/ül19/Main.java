@@ -1,4 +1,4 @@
-package tund1.ül19;
+package week1.ül19;
 import java.util.Scanner;
 
 public class Main {
