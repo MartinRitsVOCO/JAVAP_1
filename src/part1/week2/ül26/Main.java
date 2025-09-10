@@ -1,4 +1,4 @@
-package week2.ül26;
+package part1.week2.ül26;
 import java.util.Scanner;
 
 public class Main{

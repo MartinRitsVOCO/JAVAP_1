@@ -1,4 +1,4 @@
-package week1.ül5;
+package part1.week1.ül5;
 
 public class Main {
     public static void main(String[] args) {
